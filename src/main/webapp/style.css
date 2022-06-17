@@ -1,0 +1,76 @@
+body{
+	background-color:#B0E0E6;
+}
+.formulario{
+	height:300px;
+	width:500px;
+	border-radius:12px;
+	margin-left:400px;
+	background-color:#D8BFD8;
+	margin-top:70px;
+}
+#inputFormulario{
+	height:40px;
+	width:300px;
+	margin-top:30px;
+	margin-left:75px;
+	border-radius:5px;
+	border: 1px solid #FF1493;
+	
+}
+#enviar{
+	margin-top:40px;
+	margin-left:70px;
+	height:40px;
+	width:300px;
+	background-color:#C71585;
+	border:1px solid #B0E0E6;
+	color:#FFFFFF;
+	border-radius:5px;
+}
+#enviar:hover{
+	background-color:#5F9EA0;
+	
+}
+#titulo{
+	margin-left:480px;
+	font-weight:normal;
+	border-radius:12px;
+	color:#000000;
+}
+#retornoJurosComposto{
+	height:300px;
+	width:500px;
+	margin-left:400px;
+	margin-top:50px;
+	background-color:#DB7093;
+	color:#FFFFFF;
+	padding-top:10px;
+	border-radius:12px;
+	border:1px solid #FFFFFF;
+	
+}
+strong{
+	font-family:arial;
+	font-size:18px;
+}
+li{
+	margin-top:30px;
+	list-style:none;
+    margin-left:-40px;
+    padding-left:10px;
+}
+li:hover{
+	background-color:#C71585;
+	height:35px;
+	width:490px;
+	margin-left:-40px;
+	padding-left:10px;
+}
+#corpoResposta{
+	background-color:#9932CC;
+}
+#voltar{
+	color:white;
+	margin-left:340px;
+}
