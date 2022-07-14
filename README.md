@@ -10,6 +10,14 @@ CSS and Java.
 To open this project on your machine it is necessary to have the Java SDK installed and some IDE, such as Eclipse, IntelliJ IDEA or NetBeans. 
 Download it, configure it on the machine and open the files.
 
+<h2>Funcionalities</h2>
+
+<h3>Tela um</h3>
+<img src = "JurosCompostos1.PNG" alt = "Imagem tela 1 Juros Compostos">
+<h3>Tela dois</h3>
+<img src = "JurosCompostos2.PNG" alt = "Imagem tela 2 Juros Compostos">
+
+
 <h2>Authors</h2>
 Giovanna Cruz dos Santos(only me).
 
