@@ -13,9 +13,9 @@ Download it, configure it on the machine and open the files.
 <h2>Funcionalities</h2>
 
 <h3>Tela um</h3>
-<img src = "JurosCompostos1.png" alt = "Imagem tela 1 Juros Compostos"/>
+<img src="JurosCompostos1.PNG" width="350" title="hover text">
 <h3>Tela dois</h3>
-<img src = "JurosCompostos2.png" alt = "Imagem tela 2 Juros Compostos"/>
+<img src="JurosCompostos2.PNG" width="350" alt="accessibility text">
 
 
 <h2>Authors</h2>
