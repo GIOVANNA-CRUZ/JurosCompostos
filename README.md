@@ -1,4 +1,4 @@
-# JurosCompostos
+# JurosCompostos 💰
 
 
 <h1>Description and Funcionalities :books:</h1>
